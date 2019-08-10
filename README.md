@@ -1,7 +1,7 @@
 # Huffmanzip
 
 ### 函数调用组织结构图:
-    ![img](http://github.com/dengyapeng/Huffmanzip/tree/master/Image/compress.png)
+    ![image](http://github.com/dengyapeng/Huffmanzip/raw/master/Image/compress.png)
 采用哈夫曼编码实现的压缩文件程序
 
 压缩过程
